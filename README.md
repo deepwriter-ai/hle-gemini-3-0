@@ -129,7 +129,6 @@ Not logically equivalent: 1.000000000000000000000000000000000000000000000000001 
 
 ---
 
-```markdown
 ## HLE score visualizations
 
 ![HLE score for Gemini 3.0-Pro via DeepWriter](images/hle_scores_gemini3pro.png)
