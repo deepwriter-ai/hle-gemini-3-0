@@ -2,6 +2,12 @@
 
 Per-question results for **DeepWriter (Abraxas 1.5 Engine) using Google Gemini 3.0-Pro** on a text-only slice of the HLE benchmark.
 
+For related article, see: https://deepwriter.com/blog/small-team-beats-worlds-top-ai-labs-at-hle/
+
+Official Site: deepwriter.com
+
+Documentation: docs.deepwriter.com
+
 ---
 
 ## 1. Purpose
@@ -131,6 +137,4 @@ Not logically equivalent: 1.000000000000000000000000000000000000000000000000001 
 
 ## HLE score visualizations
 
-![HLE score for Gemini 3.0-Pro via DeepWriter](images/hle_scores_gemini3pro.png)
-
-![Comparison of HLE scores across leading agentic AI systems](images/hle_scores_agentic_comparison.png)
+(hle_scores_agentic_comparison.png)
