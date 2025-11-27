@@ -8,6 +8,8 @@ Official Site: https://deepwriter.com
 
 Documentation: https://docs.deepwriter.com
 
+![Leading HLE Scores of Agentic Systems](hle_scores_agentic_comparison.png)
+
 ---
 
 ## 1. Purpose
@@ -132,9 +134,3 @@ Again, this script is here purely so others can read the exact rules we used; it
 Logically equivalent: 1a + 2b == 2b + 1a, so long as the order was not part of the challenge.
 
 Not logically equivalent: 1.000000000000000000000000000000000000000000000000001 and 1.
-
----
-
-## HLE score visualizations
-
-(hle_scores_agentic_comparison.png)
