@@ -30,8 +30,8 @@ Disclaimer: DeepWriter Inc is not affiliated with any of the companies shown. HL
 
 **Data**
 
-- `questions_and_answer_hle_gem3pro.csv`
-- `questions_and_answer_hle_gem3pro.xlsx`  
+- ![questions_and_answer_hle_gem3pro.csv](questions_and_answer_hle_gem3pro.csv)
+- ![questions_and_answer_hle_gem3pro.xlsx](questions_and_answer_hle_gem3pro.xlsx)
   (Same content as the CSV, just as an Excel export.)
 
 Each row corresponds to a single HLE question. The final row is a `Totals:` summary row.
