@@ -14,7 +14,7 @@ Official X Account: https://x.com/DeepwriterAI
 
 ---
 
-Disclaimer: DeepWriter Inc is not affiliated with any of the companies shown. HLE results are self-reported and this repo is intendedc to provide transparency of that process. We welcome interested 3rd parties to reach out to us at corporate @deepwriter.com for verification and validation.
+Disclaimer: DeepWriter Inc is not affiliated with any of the companies shown. HLE results are self-reported and this repo is intendedc to provide transparency of that process. We welcome interested 3rd parties to reach out to us at corporate !at! deepwriter.com for verification and validation.
 
 ---
 
