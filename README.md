@@ -12,6 +12,10 @@ Documentation: https://docs.deepwriter.com
 
 ---
 
+Disclaimer: DeepWriter Inc is not affiliated with any of the companies shown. HLE results are self-reported and this repo is intendedc to provide transparency of that process. We welcome interested 3rd parties to reach out to us at corporate @deepwriter.com for verification and validation.
+
+---
+
 ## 1. Purpose
 
 - Provide the raw, per-question outcomes for one HLE run with Gemini 3.0-Pro through DeepWriter.
