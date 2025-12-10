@@ -4,6 +4,8 @@ Per-question results for **DeepWriter (Abraxas 1.5 Engine) using Google Gemini 3
 
 For related article, see: https://deepwriter.com/blog/small-team-beats-worlds-top-ai-labs-at-hle/
 
+Official X Account: https://x.com/DeepwriterAI
+
 Official Site: https://deepwriter.com
 
 Documentation: https://docs.deepwriter.com
